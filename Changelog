@@ -1,0 +1,22 @@
+0.5, Jul. 04, 2015:
+ + Rename project to projconf
+
+0.42, Jul. 18, 2010:
+ + added missing "let" thanks to Adam!
+
+0.41, Nov. 10, 2010:
+ * a serious bug regarding the return value of match() fixed thanks to ramp!
+
+0.4, Mar. 2, 2010:
+ + can handle directories end with "/" now
+
+0.3, Jul. 31, 2009:
+ + can add commands now
+
+0.2, Apr. 25, 2007:
+ + more tags file for one directory support (contributed by Joseph Barker)
+ + check for g:ProjTags before use it
+
+0.1, Apr. 24, 2007:
+ * initial version
+
